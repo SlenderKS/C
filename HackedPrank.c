@@ -27,4 +27,5 @@ printf("\n");																			          // pula inha
 	 printf("Calma, é só uma brincadeira uhuassahusauhsa   (msg automática)\n");    // explicação dizendo q não digitei aquilo agr
 	 sleep(3);                                                                       // parada para respeirar uhsauhsauh
 	 printf("Tá aqui a foto do codigo fonte, para você  ver que é inofencivo   http://prntscr.com/lqemag  ");    //  provando que é brincadeira :D
-}
+	sleep(120);
+	 }
